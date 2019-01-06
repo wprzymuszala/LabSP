@@ -1,0 +1,4 @@
+#!/bin/bash
+
+imienaz="Wojciech Przymuszała"
+echo "moje imię i nazwisko to $imienaz"
